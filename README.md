@@ -1,6 +1,6 @@
-Solution code of the Web Development bootcamp Gardens and Plants livecode.
+Don't forget to:
 
-Each branch represents a snapshot of the codebase during this multi-step livecodes:
-- `day-one-exercise-one`: app creation, garden model scaffold and seed
-- `day-one-exercise-two`: plant model
-- `day-two`: tag model & JavaScript
+`bundle install && yarn install`
+`rails db:create db:migrate db:seed`
+`rails s`
+`yarn build --watch`
